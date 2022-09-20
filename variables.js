@@ -10,3 +10,7 @@ var home = false
 var email = "sarahgwynhampton@gmail.com"
 var birth = "09/11/12'
 var password = "987*&"
+console.log(email)
+console.log(birth)
+console.log(password)
+node variables.js
