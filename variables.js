@@ -13,4 +13,3 @@ var password = "987*&"
 console.log(email)
 console.log(birth)
 console.log(password)
-node variables.js
