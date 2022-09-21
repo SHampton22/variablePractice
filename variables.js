@@ -7,9 +7,9 @@ var weight = 150
 var absent = true
 var present = false
 var home = false
-var email = "sarahgwynhampton@gmail.com"
-var birth = "09/11/12'
-var password = "987*&"
+email = "sarahgwynhampton@gmail.com"
+birth = "09/11/12"
+password = "987*&"
 console.log(email)
 console.log(birth)
 console.log(password)
